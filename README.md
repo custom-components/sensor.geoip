@@ -14,4 +14,4 @@ To get started put `/custom_components/sensor/geoip.py` here:
 sensor:
   platform: geoip
 ```
-Due to how `custom_componentes` are loaded, it is normal to see a `ModuleNotFoundError` error on first boot after adding this, to resolve it, restart Home-Assistant.
+Due to how `custom_components` are loaded, it is normal to see a `ModuleNotFoundError` error on first boot after adding this, to resolve it, restart Home-Assistant.
